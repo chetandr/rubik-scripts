@@ -1,0 +1,69 @@
+{
+  "_id": {
+    "$oid": "65d445ff2b8c53fff95551c3"
+  },
+  "VCHTYPE": "Sales",
+  "DATE": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "VCHSTATUSDATE": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "NARRATION": "June 23",
+  "ENTEREDBY": "chelsea",
+  "CMPGSTIN": "30AAECR9843B1ZN",
+  "VOUCHERTYPENAME": "Sales",
+  "PARTYLEDGERNAME": "Acron Waterfront Resort - STAAH",
+  "VOUCHERNUMBER": "Rb/ST/23-24/423",
+  "CMPGSTREGISTRATIONTYPE": "Regular",
+  "CMPGSTSTATE": "Goa",
+  "NUMBERINGSTYLE": "Manual",
+  "VCHSTATUSVOUCHERTYPE": "Sales",
+  "VCHSTATUSTAXUNIT": "Goa Registration",
+  "VCHENTRYMODE": "Accounting Invoice",
+  "EFFECTIVEDATE": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "ALTERID": "116338",
+  "MASTERID": "68815",
+  "VOUCHERKEY": "193604240801952",
+  "VOUCHERRETAINKEY": "68105",
+  "LEDGERENTRIES": [
+    {
+      "LEDGERNAME": "Acron Waterfront Resort - STAAH",
+      "GSTCLASS": "\u0004 Not Applicable",
+      "AMOUNT": -12036,
+      "VATEXPAMOUNT": 0
+    },
+    {
+      "LEDGERNAME": "Monthly Fees C M",
+      "GSTCLASS": "\u0004 Not Applicable",
+      "AMOUNT": 6000,
+      "VATEXPAMOUNT": 6000
+    },
+    {
+      "LEDGERNAME": "Monthly Fees  B E",
+      "GSTCLASS": "\u0004 Not Applicable",
+      "AMOUNT": 2200,
+      "VATEXPAMOUNT": 2200
+    },
+    {
+      "LEDGERNAME": "Monthly Google Listing",
+      "GSTCLASS": "\u0004 Not Applicable",
+      "AMOUNT": 2000,
+      "VATEXPAMOUNT": 2000
+    },
+    {
+      "LEDGERNAME": "CGST OUTPUT (23-24)",
+      "GSTCLASS": "\u0004 Not Applicable",
+      "AMOUNT": 918,
+      "VATEXPAMOUNT": 918
+    },
+    {
+      "LEDGERNAME": "SGST OUTPUT (23-24)",
+      "GSTCLASS": "\u0004 Not Applicable",
+      "AMOUNT": 918,
+      "VATEXPAMOUNT": 918
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+VCHTYPE,DATE,PARTYLEDGERNAME, INVOICE NUMBER,LEDGERNAME/STOCKITEM,AMOUNT,DEPARTMENT
+Sales,Aug-2023,Rio Boutique - DG,Rub/23-24/DG/269,Social Media,50000,Digital Media
+Sales,Aug-2023,Rio Boutique - DG,Rub/23-24/DG/269,Social Media,5000,Digital Media
+Sales,Aug-2023,Sudhanand Four Seasons - Staah,Rb/ST/23-24/1022,Setup CM(1),6000,STAAH
+Sales,Aug-2023,Sudhanand Four Seasons - Staah,Rb/ST/23-24/1022,Monthly CM (1),3500,STAAH
+Sales,Aug-2023,Rio Management Services Private Linited,Rub/23-24/DG/270,Google Adwords for the Website,30000,Digital Media
+Sales,Aug-2023,Rio Management Services Private Linited,Rub/23-24/DG/270,Social Media Management,16000,Digital Media
+Sales,Aug-2023,Rio Management Services Private Linited,Rub/23-24/DG/270,Influencer Marketing,20000,Digital Media
+Sales,Aug-2023,Rio Management Services Private Linited,Rub/23-24/DG/271,Social Media Marketing,100000,Digital Media
+Sales,Aug-2023,GSUDA,Rub/23-24/DH/272,Renewal of Domain Name,1600,Domain And Hosting
+Sales,Aug-2023,GSUDA,Rub/23-24/DH/272,Renewal of Hosting,7500,Domain And Hosting
+Sales,Aug-2023,GSUDA,Rub/23-24/DH/272,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Laben Resort,Rub/23-24/DH/273,Renewal of Hosting,1750,Domain And Hosting
+Sales,Aug-2023,Aastha Escape -  STAAH,Rb/ST/23-24/847,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Acron BNB - STAAH (New),Rb/ST/23-24/848,Monthly Fees C M,6000,STAAH
+Sales,Aug-2023,Acron BNB - STAAH (New),Rb/ST/23-24/848,Monthly Fees  B E,2200,STAAH
+Sales,Aug-2023,Acron BNB - STAAH (New),Rb/ST/23-24/848,Monthly Google Listing,2000,STAAH
+Sales,Aug-2023,Acron Candolim Regina - STAAH,Rb/ST/23-24/849,Monthly Fees C M,6000,STAAH
+Sales,Aug-2023,Acron Candolim Regina - STAAH,Rb/ST/23-24/849,Monthly Fees  B E,2200,STAAH
+Sales,Aug-2023,Acron Candolim Regina - STAAH,Rb/ST/23-24/849,Monthly Google Listing,2000,STAAH
+Sales,Aug-2023,Acron Seaway Resort - STAAH,Rb/ST/23-24/850,Monthly Fees C M,5500,STAAH
+Sales,Aug-2023,Acron Seaway Resort - STAAH,Rb/ST/23-24/850,Monthly Fees  B E,2200,STAAH
+Sales,Aug-2023,Acron Seaway Resort - STAAH,Rb/ST/23-24/850,Monthly Google Listing,2000,STAAH
+Sales,Aug-2023,Acron Waterfront Resort - STAAH,Rb/ST/23-24/851,Monthly Fees C M,6000,STAAH
+Sales,Aug-2023,Acron Waterfront Resort - STAAH,Rb/ST/23-24/851,Monthly Fees  B E,2200,STAAH
+Sales,Aug-2023,Acron Waterfront Resort - STAAH,Rb/ST/23-24/851,Monthly Google Listing,2000,STAAH
+Sales,Aug-2023,Aero Village - STAAH,Rb/ST/23-24/852,Monthly CM (1),4500,STAAH
+Sales,Aug-2023,Aero Village - STAAH,Rb/ST/23-24/852,Monthly BE (1),2500,STAAH
+Sales,Aug-2023,Alagoa Beach Resort - STAAH,Rb/ST/23-24/853,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Alagoa Beach Resort - STAAH,Rb/ST/23-24/853,Monthly Fees  B E,1000,STAAH
+Sales,Aug-2023,Alagoa Beach Resort - STAAH,Rb/ST/23-24/853,Monthly Fees C M,1500,STAAH
+Sales,Aug-2023,Alagoa Beach Resort - STAAH,Rb/ST/23-24/853,Monthly Fees  B E,500,STAAH
+Sales,Aug-2023,Hotel Amani (Ajgaonkar) - STAAH,Rb/ST/23-24/854,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Hotel Amani (Ajgaonkar) - STAAH,Rb/ST/23-24/854,Monthly Fees  B E,1000,STAAH
+Sales,Aug-2023,Amour Resort - STAAH,Rb/ST/23-24/855,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Amour Resort - STAAH,Rb/ST/23-24/855,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Amour Resort - STAAH,Rb/ST/23-24/855,Monthly Fees Instant Website,2000,STAAH
+Sales,Aug-2023,Andores Resort & Spa - STAAH,Rb/ST/23-24/856,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Andores Resort & Spa - STAAH,Rb/ST/23-24/856,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Antares Beach Resort - STAAH,Rb/ST/23-24/857,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Antares Beach Resort - STAAH,Rb/ST/23-24/857,Monthly Fees  B E,1000,STAAH
+Sales,Aug-2023,Arotel Rooms & Suites - STAAH,Rb/ST/23-24/858,Monthly Fees C M,3000,STAAH
+Sales,Aug-2023,Athi Resort - STAAH,Rb/ST/23-24/859,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Athi Resort - STAAH,Rb/ST/23-24/859,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Baga High Q - STAAH,Rb/ST/23-24/860,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Bambolim Beach Resort - STAAH,Rb/ST/23-24/861,Booking Engine & C.M.S. (STAAH),7750,STAAH
+Sales,Aug-2023,Bay 15 - STAAH (New),Rb/ST/23-24/862,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Bay 15 - STAAH (New),Rb/ST/23-24/862,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Baywatch Resort - STAAH,Rb/ST/23-24/863,Monthly Fees C M,4250,STAAH
+Sales,Aug-2023,Baywatch Resort - STAAH,Rb/ST/23-24/863,Monthly Fees  B E,2250,STAAH
+Sales,Aug-2023,Bedrock Boutique Hostel - STAAH,Rb/ST/23-24/864,Monthly Fees C M,2500,STAAH
+Sales,Aug-2023,Beira Mar Beach Resort - STAAH,Rb/ST/23-24/865,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Beleza...by the Beach - STAAH,Rb/ST/23-24/866,Booking Engine & C.M.S. (STAAH),6500,STAAH
+Sales,Aug-2023,Beleza...by the Beach - STAAH,Rb/ST/23-24/866,Monthly Google Listing,2500,STAAH
+Sales,Aug-2023,Bogmallo Beach Resort - STAAH,Rb/ST/23-24/867,Booking Engine & C.M.S. (STAAH),4500,STAAH
+Sales,Aug-2023,Bogmallo Beach Resort - STAAH,Rb/ST/23-24/867,Monthly Fees RM,2000,STAAH
+Sales,Aug-2023,Bogmallo Beach Resort - STAAH,Rb/ST/23-24/867,Monthly Google Listing,3000,STAAH
+Sales,Aug-2023,Boomerang  Ashvem (C) - STAAH,Rb/ST/23-24/868,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Cabo Serai - STAAH,Rb/ST/23-24/869,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Cabo Serai - STAAH,Rb/ST/23-24/869,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Calangute Beach Resort - STAAH,Rb/ST/23-24/870,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Calangute Grande (Baba Hotels) - STAAH,Rb/ST/23-24/871,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Goa Electronics - STAAH,Rb/ST/23-24/872,Monthly Fees  B E,13500,STAAH
+Sales,Aug-2023,Goa Tourism Development Corporation Limited - STAAH,Rb/ST/23-24/873,Monthly Fees C M,67500,STAAH
+Sales,Aug-2023,Casa De Goa - STAAH,Rb/ST/23-24/874,Monthly Fees C M,6000,STAAH
+Sales,Aug-2023,Casa De Goa - STAAH,Rb/ST/23-24/874,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Casa De Goa - STAAH,Rb/ST/23-24/874,Monthly Google Listing,2000,STAAH
+Sales,Aug-2023,Casa Menezes - STAAH,Rb/ST/23-24/875,Booking Engine & C.M.S. (STAAH),5000,STAAH
+Sales,Aug-2023,Casa Severina - STAAH,Rb/ST/23-24/876,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Casablanc Beach Resorts LLP -STAAH,Rb/ST/23-24/877,Monthly Fees C M,2500,STAAH
+Sales,Aug-2023,Cavala - The Seaside Resort - STAAH,Rb/ST/23-24/878,Monthly Fees C M,2500,STAAH
+Sales,Aug-2023,Chances Resort And Casino - STAAH,Rb/ST/23-24/879,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Chances Resort And Casino - STAAH,Rb/ST/23-24/879,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Cochichos Resort - STAAH,Rb/ST/23-24/880,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Coconut Creek - STAAH,Rb/ST/23-24/881,Booking Engine & C.M.S. (STAAH),3000,STAAH
+Sales,Aug-2023,Coconut Creek - STAAH,Rb/ST/23-24/881,Monthly Google Listing,2500,STAAH
+Sales,Aug-2023,Crystal Serenity - STAAH,Rb/ST/23-24/882,Monthly Fees C M,2500,STAAH
+Sales,Aug-2023,De Mandarin Bangalore - STAAH New,Rb/ST/23-24/883,Monthly CM (1),4000,STAAH
+Sales,Aug-2023,De Mandarin Bangalore - STAAH New,Rb/ST/23-24/883,Monthly BE (1),1000,STAAH
+Sales,Aug-2023,De Mandarin Bangalore - STAAH New,Rb/ST/23-24/883,Monthly Google Listing  (1),1500,STAAH
+Sales,Aug-2023,De Mandarin Bangalore - STAAH New,Rb/ST/23-24/883,Monthly Google Listing  (1),581,STAAH
+Sales,Aug-2023,De Mandarin Beach Suites - STAAH,Rb/ST/23-24/884,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,De Mandarin Beach Suites - STAAH,Rb/ST/23-24/884,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,De Mandarin Goa - STAAH,Rb/ST/23-24/885,Monthly Fees C M,6000,STAAH
+Sales,Aug-2023,De Mandarin Goa - STAAH,Rb/ST/23-24/885,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,De Mandarin Goa - STAAH,Rb/ST/23-24/885,Monthly Google Listing,1500,STAAH
+Sales,Aug-2023,De Mandarin Goa - STAAH,Rb/ST/23-24/885,Monthly Google Listing,726,STAAH
+Sales,Aug-2023,Devasthali - STAAH,Rb/ST/23-24/886,Booking Engine & C.M.S. (STAAH),6500,STAAH
+Sales,Aug-2023,Andores Resort & Spa - STAAH,Rb/ST/23-24/887,Booking Engine & C.M.S. (STAAH),3500,STAAH
+Sales,Aug-2023,Eros Boutique - STAAH New,Rb/ST/23-24/888,Monthly Fees C M,2500,STAAH
+Sales,Aug-2023,Estrela Do Mar - STAAH,Rb/ST/23-24/889,Booking Engine & C.M.S. (STAAH),5000,STAAH
+Sales,Aug-2023,Fahrenheit Hotels and Resorts - STAAH,Rb/ST/23-24/890,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Fahrenheit Hotels and Resorts - STAAH,Rb/ST/23-24/890,Monthly Fees  B E,2500,STAAH
+Sales,Aug-2023,Fahrenheit Hotels and Resorts - STAAH,Rb/ST/23-24/890,Monthly Fees RM,2500,STAAH
+Sales,Aug-2023,Fahrenheit Hotels and Resorts - STAAH,Rb/ST/23-24/890,Monthly Google Listing,2500,STAAH
+Sales,Aug-2023,Ginger Tree Anjuna - STAAH New,Rb/ST/23-24/891,Monthly Fees C M,3000,STAAH
+Sales,Aug-2023,Golden Tulip - STAAH,Rb/ST/23-24/892,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Goveia Holiday Homes - STAAH New,Rb/ST/23-24/893,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Graciano Cottages - STAAH,Rb/ST/23-24/894,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Grandeur De Sanchi - STAAH,Rb/ST/23-24/895,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Granpa's Inn - STAAH,Rb/ST/23-24/896,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Hospedaria Abrige De Botelho - STAAH,Rb/ST/23-24/897,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Hotel Avisha Residency - STAAH,Rb/ST/23-24/898,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Hotel Calangute Towers - STAAH,Rb/ST/23-24/899,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Hotel Goan Heritage - STAAH,Rb/ST/23-24/900,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Hotel Goan Heritage - STAAH,Rb/ST/23-24/900,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Iora Baga Beach - STAAH,Rb/ST/23-24/901,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Hotel La Capitol - STAAH,Rb/ST/23-24/902,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Hotel La Capitol - STAAH,Rb/ST/23-24/902,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Hotel Mayura - STAAH,Rb/ST/23-24/903,Booking Engine & C.M.S. (STAAH),5000,STAAH
+Sales,Aug-2023,Hotel Park Plaza - STAAH,Rb/ST/23-24/904,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Hotel Park Plaza - STAAH,Rb/ST/23-24/904,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Hotel Reemz - STAAH,Rb/ST/23-24/905,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Hotel Rezo's - STAAH,Rb/ST/23-24/906,Monthly Fees C M,2500,STAAH
+Sales,Aug-2023,I Love Bell Bottoms Pvt Ltd - STAAH,Rb/ST/23-24/907,Booking Engine & C.M.S. (STAAH),5000,STAAH
+Sales,Aug-2023,Dempo River Sal Resort & Spa - STAAH,Rb/ST/23-24/908,Booking Engine & C.M.S. (STAAH),5000,STAAH
+Sales,Aug-2023,Joia Do Mar (Pentacle) - STAAH New,Rb/ST/23-24/909,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Joia Do Mar (Pentacle) - STAAH New,Rb/ST/23-24/909,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Joia Do Mar (Pentacle) - STAAH New,Rb/ST/23-24/909,Monthly Google Listing,2500,STAAH
+Sales,Aug-2023,Jolan's Guest House - STAAH,Rb/ST/23-24/910,Monthly Fees C M,2100,STAAH
+Sales,Aug-2023,Kalki Resorts,Rb/ST/23-24/911,Monthly Fees C M,3000,STAAH
+Sales,Aug-2023,Kamat's Hilltop Leisure - STAAH,Rb/ST/23-24/912,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Royal Haathi Mahal - STAAH,Rb/ST/23-24/913,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Royal Haathi Mahal - STAAH,Rb/ST/23-24/913,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Koko Maya by Stonewoods - STAAH,Rb/ST/23-24/914,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,La Grace Resort - STAAH,Rb/ST/23-24/915,Monthly Fees C M,4250,STAAH
+Sales,Aug-2023,La Cabana Beach & Spa - STAAH,Rb/ST/23-24/916,Monthly Fees C M,5500,STAAH
+Sales,Aug-2023,La Cabana Beach & Spa - STAAH,Rb/ST/23-24/916,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,La Cabana Beach & Spa - STAAH,Rb/ST/23-24/916,Monthly Google Listing,2500,STAAH
+Sales,Aug-2023,La Sunila (C) - STAAH,Rb/ST/23-24/917,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Lario's Beach Holidays - STAAH,Rb/ST/23-24/918,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Lario's Beach Holidays - STAAH,Rb/ST/23-24/918,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Mansionhaus - STAAH,Rb/ST/23-24/919,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Mansionhaus - STAAH,Rb/ST/23-24/919,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Maravilha Boutique Resort - STAAH New,Rb/ST/23-24/920,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Maravilha Boutique Resort - STAAH New,Rb/ST/23-24/920,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Marbela Resort - STAAH (C),Rb/ST/23-24/921,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Marbela Resort - STAAH (C),Rb/ST/23-24/921,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Marina Bay - STAAH New,Rb/ST/23-24/922,Monthly Fees C M,5750,STAAH
+Sales,Aug-2023,Marquis Beach Resort - STAAH,Rb/ST/23-24/923,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Marquis Beach Resort - STAAH,Rb/ST/23-24/923,Monthly Fees  B E,2500,STAAH
+Sales,Aug-2023,Mateus Boutique Hotel - STAAH,Rb/ST/23-24/924,Monthly Fees C M,2500,STAAH
+Sales,Aug-2023,Mi Casa by the Sea - STAAH,Rb/ST/23-24/925,Monthly Fees C M,2500,STAAH
+Sales,Aug-2023,Naga Cottages - STAAH,Rb/ST/23-24/926,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Nanu Beach Resort - STAAH,Rb/ST/23-24/927,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Nanu Beach Resort - STAAH,Rb/ST/23-24/927,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Nanu Beach Resort - STAAH,Rb/ST/23-24/927,Monthly Fees RM,1000,STAAH
+Sales,Aug-2023,Nanu Beach Resort - STAAH,Rb/ST/23-24/927,Monthly Google Listing,1000,STAAH
+Sales,Aug-2023,Nanu Resort Arambol - STAAH,Rb/ST/23-24/928,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Nanu Resort Arambol - STAAH,Rb/ST/23-24/928,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Nanu Resort Arambol - STAAH,Rb/ST/23-24/928,Monthly Fees RM,1000,STAAH
+Sales,Aug-2023,Nanu Resort Arambol - STAAH,Rb/ST/23-24/928,Monthly Google Listing,1000,STAAH
+Sales,Aug-2023,Nanutel - STAAH,Rb/ST/23-24/929,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Nanutel - STAAH,Rb/ST/23-24/929,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Nanutel - STAAH,Rb/ST/23-24/929,Monthly Fees RM,1000,STAAH
+Sales,Aug-2023,Nanutel - STAAH,Rb/ST/23-24/929,Monthly Google Listing,1000,STAAH
+Sales,Aug-2023,Nazri Resort - STAAH,Rb/ST/23-24/930,Booking Engine & C.M.S. (STAAH),4500,STAAH
+Sales,Aug-2023,Neelam's The Grand - STAAH,Rb/ST/23-24/931,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Neelam's The Grand - STAAH,Rb/ST/23-24/931,Monthly Fees  B E,2250,STAAH
+Sales,Aug-2023,Nilaya Hermitage 1 - STAAH,Rb/ST/23-24/932,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Nilaya Hermitage 1 - STAAH,Rb/ST/23-24/932,Monthly Fees  B E,2200,STAAH
+Sales,Aug-2023,Nirvana Hill Resort - STAAH,Rb/ST/23-24/933,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Nirvana Hill Resort - STAAH,Rb/ST/23-24/933,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Nirvana Hill Resort - STAAH,Rb/ST/23-24/933,Monthly Google Listing,2000,STAAH
+Sales,Aug-2023,Pescador - Absolute Waterfront - STAAH,Rb/ST/23-24/934,Booking Engine & C.M.S. (STAAH),5000,STAAH
+Sales,Aug-2023,O Pierre - STAAH New,Rb/ST/23-24/935,Booking Engine & C.M.S. (STAAH),3500,STAAH
+Sales,Aug-2023,Ocean Suite (C) - STAAH,Rb/ST/23-24/936,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Oxel House - STAAH New,Rb/ST/23-24/937,Monthly Fees C M,1271.18,STAAH
+Sales,Aug-2023,Phoenix Park Inn Resort - STAAH,Rb/ST/23-24/938,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Pinto Rosario Square - Resort & Spa - STAAH,Rb/ST/23-24/939,Booking Engine & C.M.S. (STAAH),4000,STAAH
+Sales,Aug-2023,Prainha Resort By The Sea - STAAH,Rb/ST/23-24/940,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Okean De Goa (DeSol) - STAAH,Rb/ST/23-24/941,Monthly Fees C M,6000,STAAH
+Sales,Aug-2023,Radisson Goa Candolim - STAAH,Rb/ST/23-24/942,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Rendezvous Beach Resort - STAAH (C),Rb/ST/23-24/943,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Resort De Alturas - STAAH,Rb/ST/23-24/944,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Resort De Alturas - STAAH,Rb/ST/23-24/944,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Martins Siesta - STAAH,Rb/ST/23-24/945,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Martins Siesta - STAAH,Rb/ST/23-24/945,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Resort Rio - STAAH,Rb/ST/23-24/946,Monthly Fees C M,5500,STAAH
+Sales,Aug-2023,Resort Rio - STAAH,Rb/ST/23-24/946,Monthly Fees  B E,2500,STAAH
+Sales,Aug-2023,Resort Rio - STAAH,Rb/ST/23-24/946,Monthly Google Listing,800,STAAH
+Sales,Aug-2023,Resort Rio - STAAH,Rb/ST/23-24/946,Monthly Fees RM,2500,STAAH
+Sales,Aug-2023,Resort Rio - STAAH,Rb/ST/23-24/946,Monthly Opera Fee,4500,STAAH
+Sales,Aug-2023,Resort Rio - STAAH,Rb/ST/23-24/946,Monthly Fee Travel Agent Module,2500,STAAH
+Sales,Aug-2023,Resort The Lohias - STAAH,Rb/ST/23-24/947,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Resort The Lohias - STAAH,Rb/ST/23-24/947,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Rio Boutique - STAAH,Rb/ST/23-24/948,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Rio Boutique - STAAH,Rb/ST/23-24/948,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Rio Boutique - STAAH,Rb/ST/23-24/948,Monthly Fees RM,1500,STAAH
+Sales,Aug-2023,Rio Boutique - STAAH,Rb/ST/23-24/948,Monthly Google Listing,800,STAAH
+Sales,Aug-2023,Riva Beach Resort - STAAH,Rb/ST/23-24/949,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Riva Beach Resort - STAAH,Rb/ST/23-24/949,Monthly Fees  B E,1250,STAAH
+Sales,Aug-2023,Riva Beach Resort - STAAH,Rb/ST/23-24/949,Monthly Fees RM,2000,STAAH
+Sales,Aug-2023,Riva Beach Resort - STAAH,Rb/ST/23-24/949,Monthly Google Listing,2000,STAAH
+Sales,Aug-2023,Riva Beach Resort - STAAH,Rb/ST/23-24/949,Monthly Fee Travel Agent Module,2500,STAAH
+Sales,Aug-2023,Riva Gold Coast - STAAH,Rb/ST/23-24/950,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Riva Gold Coast - STAAH,Rb/ST/23-24/950,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Rivasa Resort - STAAH,Rb/ST/23-24/951,Monthly Fees C M,7500,STAAH
+Sales,Aug-2023,Rock Valley - STAAH,Rb/ST/23-24/952,Monthly Fees C M,3000,STAAH
+Sales,Aug-2023,Rock Valley - STAAH,Rb/ST/23-24/952,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Salcete Beach Resort - STAAH,Rb/ST/23-24/953,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Sandalwood Hotel & Retreat - STAAH,Rb/ST/23-24/954,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Sanskruti Quality Resort - STAAH,Rb/ST/23-24/955,Monthly CM (1),4500,STAAH
+Sales,Aug-2023,Santiago Beach Resort (Era) - STAAH,Rb/ST/23-24/956,Booking Engine & C.M.S. (STAAH),5000,STAAH
+Sales,Aug-2023,Sea Mist Resorts - STAAH,Rb/ST/23-24/957,Monthly Fees C M,4250,STAAH
+Sales,Aug-2023,Sea Mist Resorts - STAAH,Rb/ST/23-24/957,Monthly Fees  B E,2500,STAAH
+Sales,Aug-2023,Sea Queen Beach Resort & Spa - STAAH,Rb/ST/23-24/958,Monthly Fees C M,5500,STAAH
+Sales,Aug-2023,Sea Queen Beach Resort & Spa - STAAH,Rb/ST/23-24/958,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Sea Queen Beach Resort & Spa - STAAH,Rb/ST/23-24/958,Monthly Google Listing,2200,STAAH
+Sales,Aug-2023,Sea Shell Villas - STAAH,Rb/ST/23-24/959,Monthly Fees C M,5250,STAAH
+Sales,Aug-2023,Sea Shell Villas - STAAH,Rb/ST/23-24/959,Monthly Fees  B E,2750,STAAH
+Sales,Aug-2023,Shanu's Seaside Inn - STAAH,Rb/ST/23-24/960,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Shanu's Seaside Inn - STAAH,Rb/ST/23-24/960,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Shanu's Seaside Inn - STAAH,Rb/ST/23-24/960,Monthly Google Listing,2500,STAAH
+Sales,Aug-2023,Sibaya Beach Resort - STAAH,Rb/ST/23-24/961,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Sibaya Beach Resort - STAAH,Rb/ST/23-24/961,Monthly Fees  B E,1000,STAAH
+Sales,Aug-2023,Silver Sands Hideaway - STAAH,Rb/ST/23-24/962,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Silver Sands Hideaway - STAAH,Rb/ST/23-24/962,Monthly Fees  B E,2250,STAAH
+Sales,Aug-2023,Silver Sands Holiday Village - STAAH,Rb/ST/23-24/963,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Silver Sands Holiday Village - STAAH,Rb/ST/23-24/963,Monthly Fees  B E,2250,STAAH
+Sales,Aug-2023,Silver Sands Serenity - STAAH,Rb/ST/23-24/964,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Silver Sands Serenity - STAAH,Rb/ST/23-24/964,Monthly Fees  B E,2250,STAAH
+Sales,Aug-2023,Silver Sands Sunshine - STAAH,Rb/ST/23-24/965,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Silver Sands Sunshine - STAAH,Rb/ST/23-24/965,Monthly Fees  B E,2250,STAAH
+Sales,Aug-2023,Sinq Properties - STAAH,Rb/ST/23-24/966,Booking Engine & C.M.S. (STAAH),5500,STAAH
+Sales,Aug-2023,Sinq Properties - STAAH,Rb/ST/23-24/967,Booking Engine & C.M.S. (STAAH),5500,STAAH
+Sales,Aug-2023,Sinq Properties - STAAH,Rb/ST/23-24/968,Booking Engine & C.M.S. (STAAH),5500,STAAH
+Sales,Aug-2023,Sinq Properties - STAAH,Rb/ST/23-24/969,Booking Engine & C.M.S. (STAAH),5500,STAAH
+Sales,Aug-2023,Sinq Properties - STAAH,Rb/ST/23-24/970,Booking Engine & C.M.S. (STAAH),5500,STAAH
+Sales,Aug-2023,Sonesta Inn Pvt. Ltd./Hotel,Rb/ST/23-24/971,Booking Engine & C.M.S. (STAAH),6500,STAAH
+Sales,Aug-2023,Sonesta Inn Pvt. Ltd./Hotel,Rb/ST/23-24/971,Monthly Fees RM,2500,STAAH
+Sales,Aug-2023,Soul Vacation - STAAH,Rb/ST/23-24/972,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Soul Vacation - STAAH,Rb/ST/23-24/972,Monthly Fees  B E,1000,STAAH
+Sales,Aug-2023,Span Suites & Villas - STAAH,Rb/ST/23-24/973,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Span Suites & Villas - STAAH,Rb/ST/23-24/973,Monthly Fees  B E,2250,STAAH
+Sales,Aug-2023,Spazio Leisure Resort -  STAAH (New),Rb/ST/23-24/974,Booking Engine & C.M.S. (STAAH),6500,STAAH
+Sales,Aug-2023,Stonewoods Beach Resort & Spa - STAAH,Rb/ST/23-24/975,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Stone Woods Nature Resort - STAAH New,Rb/ST/23-24/976,Monthly CM (1),4000,STAAH
+Sales,Aug-2023,Stone Wood Riverfront Resort - STAAH,Rb/ST/23-24/977,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Stone Wood Resort & Spa - STAAH,Rb/ST/23-24/978,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Stonewood Village resort - STAAH,Rb/ST/23-24/979,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Sun City Resort - STAAH,Rb/ST/23-24/980,Monthly Fees C M,4250,STAAH
+Sales,Aug-2023,Sun City Resort - STAAH,Rb/ST/23-24/980,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Sunset Beach Resort - STAAH,Rb/ST/23-24/981,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Sunset Beach Resort - STAAH,Rb/ST/23-24/981,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,TP Beach Resort (New) - STAAH,Rb/ST/23-24/982,Monthly Fees C M,2500,STAAH
+Sales,Aug-2023,Tangerine Boutique Resort - STAAH,Rb/ST/23-24/983,Monthly Fees C M,4250,STAAH
+Sales,Aug-2023,The Acacia Hotel & Spa Goa - STAAH,Rb/ST/23-24/984,Monthly Fees C M,5250,STAAH
+Sales,Aug-2023,The Acacia Hotel & Spa Goa - STAAH,Rb/ST/23-24/984,Monthly Fees  B E,2750,STAAH
+Sales,Aug-2023,The Acacia Hotel & Spa Goa - STAAH,Rb/ST/23-24/984,Monthly Fees RM,2000,STAAH
+Sales,Aug-2023,The Acacia Morjim Oceanfront - STAAH,Rb/ST/23-24/985,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,The Acacia Morjim Oceanfront - STAAH,Rb/ST/23-24/985,Monthly Fees  B E,2500,STAAH
+Sales,Aug-2023,The Acacia Morjim Oceanfront - STAAH,Rb/ST/23-24/985,Monthly Fees RM,2000,STAAH
+Sales,Aug-2023,The Baga Beach Resort - STAAH,Rb/ST/23-24/986,Booking Engine & C.M.S. (STAAH),7000,STAAH
+Sales,Aug-2023,The Crown - STAAH,Rb/ST/23-24/987,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,The Crown - STAAH,Rb/ST/23-24/987,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,The Crown - STAAH,Rb/ST/23-24/987,Monthly Google Listing,2500,STAAH
+Sales,Aug-2023,The Flora Grand - STAAH New,Rb/ST/23-24/988,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,The Flora Residency - STAAH New,Rb/ST/23-24/989,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,The HQ - STAAH,Rb/ST/23-24/990,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,The HQ - STAAH,Rb/ST/23-24/990,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,The HQ - STAAH,Rb/ST/23-24/990,Monthly Fees RM,2000,STAAH
+Sales,Aug-2023,The Ocean Park (New) - STAAH,Rb/ST/23-24/991,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,The White Balcao - STAAH,Rb/ST/23-24/992,Monthly Fees C M,2500,STAAH
+Sales,Aug-2023,Ultimate Stay - STAAH,Rb/ST/23-24/993,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Vacayom Homestay Hospitality - STAAH,Rb/ST/23-24/994,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Varanda Do Mar - STAAH,Rb/ST/23-24/995,Monthly Fees C M,5500,STAAH
+Sales,Aug-2023,Varanda Do Mar - STAAH,Rb/ST/23-24/995,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Vedic Resorts & Hotels Pvt. Ltd - STAAH,Rb/ST/23-24/996,Monthly CM (1),4500,STAAH
+Sales,Aug-2023,Vedic Resorts & Hotels Pvt. Ltd - STAAH,Rb/ST/23-24/996,Monthly BE (1),2500,STAAH
+Sales,Aug-2023,Vedic Resorts & Hotels Pvt. Ltd - STAAH,Rb/ST/23-24/996,Monthly Google Listing  (1),2500,STAAH
+Sales,Aug-2023,Vedic Resorts & Hotels Pvt. Ltd - STAAH,Rb/ST/23-24/996,Monthly Fees RM (1),2500,STAAH
+Sales,Aug-2023,Veera Strand Park Serviced Apartments - STAAH,Rb/ST/23-24/997,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Villa De Orange - STAAH,Rb/ST/23-24/998,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Viva Hotel -  STAAH,Rb/ST/23-24/999,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Viva Hotel -  STAAH,Rb/ST/23-24/999,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Vivenda Rebelo - STAAH New,Rb/ST/23-24/1000,Monthly Fees C M,3000,STAAH
+Sales,Aug-2023,Bogmallo Beach Resort - STAAH,Rb/ST/23-24/1001,Booking Engine & C.M.S. (STAAH),13500,STAAH
+Sales,Aug-2023,Bogmallo Beach Resort - STAAH,Rb/ST/23-24/1001,Monthly Fees RM,6000,STAAH
+Sales,Aug-2023,Whispering Palms - STAAH,Rb/ST/23-24/1002,Booking Engine & C.M.S. (STAAH),8000,STAAH
+Sales,Aug-2023,Whispering Palms - STAAH,Rb/ST/23-24/1002,Monthly Google Listing,2500,STAAH
+Sales,Aug-2023,White Square Nirvana - STAAH,Rb/ST/23-24/1003,Booking Engine & C.M.S. (STAAH),4000,STAAH
+Sales,Aug-2023,White Woods Resort & Spa - STAAH,Rb/ST/23-24/1004,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Wood House Beach Resort - STAAH,Rb/ST/23-24/1005,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,YU Hotel - STAAH,Rb/ST/23-24/1006,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,YU Hotel - STAAH,Rb/ST/23-24/1006,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,YU Hotel - STAAH,Rb/ST/23-24/1006,Monthly Google Listing,2000,STAAH
+Sales,Aug-2023,Coquerial Holiday Homes - STAAH,Rb/ST/23-24/1007,Booking Engine & C.M.S. (STAAH),4500,STAAH
+Sales,Aug-2023,Aurum Resort - STAAH,Rb/ST/23-24/1008,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Montego Bay Beach Village - STAAH,Rb/ST/23-24/1009,Booking Engine & C.M.S. (STAAH),3000,STAAH
+Sales,Aug-2023,Tanzanite Cottages - STAAH,Rb/ST/23-24/1010,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Vaayu Kula - STAAH,Rb/ST/23-24/1011,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Vaayu Kula - STAAH,Rb/ST/23-24/1011,Monthly Fees  B E,2250,STAAH
+Sales,Aug-2023,Henry's Place - STAAH,Rb/ST/23-24/1012,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Revathi Resorts -  STAAH,Rb/ST/23-24/1013,Monthly CM (1),2452,STAAH
+Sales,Aug-2023,Hotel Bom Sucesso - STAAH,Rb/ST/23-24/1014,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Twin Fountain by Baywatch Express -STAAH,Rb/ST/23-24/1015,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Twin Fountain by Baywatch Express -STAAH,Rb/ST/23-24/1015,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Alaya Villas - STAAH,Rb/ST/23-24/1016,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Palmarinha De Goa - STAAH,Rb/ST/23-24/1017,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Palmarinha De Goa - STAAH,Rb/ST/23-24/1017,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Coconut Grove - STAAH (New),Rb/ST/23-24/1018,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Rohit Holiday Homes - STAAH,Rb/ST/23-24/1019,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Coastal Pearl - STAAH,Rb/ST/23-24/1020,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Skylight Royal Stay - STAAH,Rb/ST/23-24/1021,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Nova Express De Mandarin - STAAH,Rb/ST/23-24/1023,Monthly CM (1),6500,STAAH
+Sales,Aug-2023,Nova Express De Mandarin - STAAH,Rb/ST/23-24/1023,Monthly BE (1),2500,STAAH
+Sales,Aug-2023,Nova Express De Mandarin - STAAH,Rb/ST/23-24/1023,Monthly Google Listing  (1),1500,STAAH
+Sales,Aug-2023,Nova Express De Mandarin - STAAH,Rb/ST/23-24/1023,Monthly Google Listing  (1),726,STAAH
+Sales,Aug-2023,Bis-Lin Homestay - STAAH,Rb/ST/23-24/1024,Monthly Fees C M,1500,STAAH
+Sales,Aug-2023,Bis-Lin Homestay - STAAH,Rb/ST/23-24/1024,Monthly Fees C M,1500,STAAH
+Sales,Aug-2023,Bis-Lin Homestay - STAAH,Rb/ST/23-24/1024,Monthly Fees C M,750,STAAH
+Sales,Aug-2023,De Amour Holiday - STAAH,Rb/ST/23-24/1025,Monthly Fees C M,6000,STAAH
+Sales,Aug-2023,Bella Villa - STAAH,Rb/ST/23-24/1026,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,The Cresent - STAAH,Rb/ST/23-24/1027,Monthly Fees C M,5500,STAAH
+Sales,Aug-2023,Vedana Retreat - STAAH,Rb/ST/23-24/1028,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Casa Amarela (New) - STAAH,Rb/ST/23-24/1029,Monthly Fees C M,3250,STAAH
+Sales,Aug-2023,Sea View Holidays - STAAH,Rb/ST/23-24/1030,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Mademoiselle - STAAH New (Thunder LLP),Rb/ST/23-24/1031,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Artistry Suites - STAAH (New),Rb/ST/23-24/1032,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Crystal Village - STAAH,Rb/ST/23-24/1033,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Turtle Beach Resort - STAAH,Rb/ST/23-24/1034,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,The Sylvan Retreat - STAAH,Rb/ST/23-24/1035,Monthly CM (1),3500,STAAH
+Sales,Aug-2023,The Sylvan Retreat - STAAH,Rb/ST/23-24/1035,Monthly BE (1),2000,STAAH
+Sales,Aug-2023,Casa De Paz - STAAH,Rb/ST/23-24/1036,Monthly Fees C M,3250,STAAH
+Sales,Aug-2023,Tranquill Riverside Luxury Cottages - STAAH,Rb/ST/23-24/1037,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Sukcheewa Residence Phuket - STAAH,Rb/ST/23-24/1038,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Maan Vilas by Stonewoods - STAAH,Rb/ST/23-24/1039,Monthly CM (1),4000,STAAH
+Sales,Aug-2023,Jeromes Holiday Inn - STAAH,Rb/ST/23-24/1040,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Jeromes Holiday Inn - STAAH,Rb/ST/23-24/1040,Monthly Fees  B E,2000,STAAH
+Sales,Aug-2023,Eleven Hotels - STAAH,Rb/ST/23-24/1041,Monthly Fees C M,5000,STAAH
+Sales,Aug-2023,Mangal Farmstay - STAAH,Rb/ST/23-24/1042,Booking Engine & C.M.S. (STAAH),5000,STAAH
+Sales,Aug-2023,Green Valley Beach Resort - STAAH,Rb/ST/23-24/1043,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Green Valley Beach Resort - STAAH,Rb/ST/23-24/1043,Monthly Fees  B E,2250,STAAH
+Sales,Aug-2023,Ruhe Stay Villas - STAAH,Rb/ST/23-24/1044,Monthly Fees C M,6000,STAAH
+Sales,Aug-2023,Mandrem Beach Resort - STAAH,Rb/ST/23-24/1045,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Bellagio Rezidencia - STAAH,Rb/ST/23-24/1046,Monthly Fees C M,4000,STAAH
+Sales,Aug-2023,Jambul Cafe & Stay - STAAH,Rb/ST/23-24/1047,Monthly Fees C M,3250,STAAH
+Sales,Aug-2023,JBL Guest House - STAAH,Rb/ST/23-24/1048,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Tan N Sands - STAAH,Rb/ST/23-24/1049,Monthly Fees  B E,1500,STAAH
+Sales,Aug-2023,Mountain Retreat Kodai - STAAH,Rb/ST/23-24/1050,Monthly CM (1),4000,STAAH
+Sales,Aug-2023,Mountain Retreat Kodai - STAAH,Rb/ST/23-24/1050,Monthly BE (1),1500,STAAH
+Sales,Aug-2023,Whispering Palms Hotel Jaipur - STAAH,Rb/ST/23-24/1051,Monthly CM (1),4500,STAAH
+Sales,Aug-2023,Whispering Palms Hotel Jaipur - STAAH,Rb/ST/23-24/1051,Monthly BE (1),2500,STAAH
+Sales,Aug-2023,Sanket P Shet (HUF),Rub/23-24/DG/274,Paid Ads,21500,Digital Media
+Sales,Aug-2023,Sanket P Shet (HUF),Rub/23-24/DG/275,Paid Ads,21500,Digital Media
+Sales,Aug-2023,Mahadhan Real Estates LLP,Rub/23-24/DH/276,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Oswald De Melo,Rub/23-24/DH/277,Renewal of,2000,Domain And Hosting
+Credit Note,Aug-2023,Kolhapur Oxygen and Acetylene Pvt. Ltd.,9,Website Development & Digital Marketing Services,-65000,null
+Sales,Aug-2023,Sea Shell Hospitality,Rub/23-24/DG/278,Google Adwords Commission,18000,Digital Media
+Sales,Aug-2023,Sea Shell Hospitality,Rub/23-24/DG/279,Search Engine Optimisation,15000,Digital Media
+Sales,Aug-2023,Linc Property Developers Pvt Ltd (Web),Rub/23-24/web280,Website Development,25000,Website Development
+Sales,Aug-2023,Classic Squares Realty Pvt Ltd,Rub/23-24/DG/281,Search Engine Optimisation,15000,Digital Media
+Sales,Aug-2023,Classic Squares Realty Pvt Ltd,Rub/23-24/DG/282,Google Ads Commission,15000,Digital Media
+Sales,Aug-2023,Classic Squares Realty Pvt Ltd,Rub/23-24/DG/283,Google Ads Commission,15000,Digital Media
+Sales,Aug-2023,Linc Property Developers Pvt Ltd (DG),Rub/23-24/DG/284,Search Engine Optimisation,15000,Digital Media
+Sales,Aug-2023,Linc Property Developers Pvt Ltd (DG),Rub/23-24/DG/284,Google Ads Commission,12000,Digital Media
+Sales,Aug-2023,Sanket P Shet (HUF),Rub/23-24/DG/285,Google Ads,20000,null
+Sales,Aug-2023,Bambolim Beach Resort - STAAH,Rb/ST/23-24/1052,Setup Google Listing,2500,STAAH
+Sales,Aug-2023,Classic Squares Pvt. Ltd. (Hospitality Division ),Rub/23-24/DG/286,Google Ads Commission,15000,Digital Media
+Sales,Aug-2023,Shetyevision Hospital Pvt Ltd,Rub/23-24/DG/287,Search Engine Optimisation,15000,Digital Media
+Sales,Aug-2023,Shetyevision Hospital Pvt Ltd,Rub/23-24/DG/287,Social Media Optimisation,15000,Digital Media
+Sales,Aug-2023,Chowgule Warehousing & Logistics Services Pvt Ltd 1,Rub/23-24/DG/288,Search Engine Optimisation,12000,Digital Media
+Sales,Aug-2023,Bogmallo Beach Resorts,Rub/23-24/Seo289,Search Engine Optimisation,18000,Digital Media
+Sales,Aug-2023,Casa Ibrahim,Rub/23-24/DG/290,Search Engine Optimisation,15000,Digital Media
+Sales,Aug-2023,Velha Goa,Rub/23-24/DG/291,Social Media Optimisation,21000,Digital Media
+Sales,Aug-2023,The Southern Deck,Rub/23-24/DG/292,Social Media Optimisation,45000,Digital Media
+Sales,Aug-2023,Fahrenheit Hotels and Resorts - DG,Rub/23-24/DG/293,Google Adwords  Management,18000,Digital Media
+Sales,Aug-2023,Ted Mesquita,Rub/23-24/DH/294,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Ted Mesquita,Rub/23-24/DH/294,Renewal of Hosting,4000,Domain And Hosting
+Sales,Aug-2023,Counto Automobile Private Limited,Rub/23-24/DH/295,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Counto Automobile Private Limited,Rub/23-24/DH/295,Renewal of Hosting,4000,Domain And Hosting
+Sales,Aug-2023,Counto Automobile Private Limited,Rub/23-24/DH/295,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,La Cabana Beach & Spa,Rub/23-24/Anu296,Annual Maintenance,10000,Maintenance Of Website
+Sales,Aug-2023,Silver Sands Sunshine(Domain),Rub/23-24/web300,Website Development,52500,Website Development
+Sales,Aug-2023,Grandeur De Sanchi - STAAH,Rb/ST/23-24/1053,Set Up B E,3000,STAAH
+Sales,Aug-2023,Grandeur De Sanchi - STAAH,Rb/ST/23-24/1053,Setup Payment Gateway,9000,STAAH
+Sales,Aug-2023,Averina International Resorts Pvt Ltd III,Rub/23-24/DH/301,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Averina International Resorts Pvt Ltd III,Rub/23-24/DH/301,Renewal of Hosting,1750,Domain And Hosting
+Sales,Aug-2023,Averina International Resorts Pvt Ltd III,Rub/23-24/DH/301,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Vinsan Graphics (Domain),Rub/23-24/DH/302,Renewal of Domain Names,2700,Domain And Hosting
+Sales,Aug-2023,Fahrenheit Hotels and Resorts - STAAH,Rub/23-24/DG/303,Advance Received,-6200,null
+Sales,Aug-2023,Fahrenheit Hotels and Resorts - STAAH,Rub/23-24/DG/303,Rounded Off,-0.13,null
+Sales,Aug-2023,Fahrenheit Hotels and Resorts - STAAH,Rub/23-24/DG/303,Facebook Ad,5254.35,null
+Sales,Aug-2023,Casa Boutique(Domain),Rub/23-24/DH/304,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Casa Boutique(Domain),Rub/23-24/DH/304,Renewal of Hosting,7500,Domain And Hosting
+Sales,Aug-2023,Casa Boutique(Domain),Rub/23-24/DH/304,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Casa Boutique(Domain),Rub/23-24/DH/304,Renewal of,3500,Domain And Hosting
+Sales,Aug-2023,Bhagwati Trust,Rub/23-24/DH/305,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Bhagwati Trust,Rub/23-24/DH/305,Renewal of Hosting,3000,Domain And Hosting
+Sales,Aug-2023,Bhagwati Trust,Rub/23-24/DH/305,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Lester De Melo,Rub/23-24/DH/306,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Resort La Goa Azul,Rub/23-24/DH/307,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Resort La Goa Azul,Rub/23-24/DH/307,Renewal of Hosting,7500,Domain And Hosting
+Sales,Aug-2023,Resort La Goa Azul,Rub/23-24/DH/307,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Somy Resort Pvt Ltd,Rub/23-24/DH/308,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Somy Resort Pvt Ltd,Rub/23-24/DH/308,Renewal of Hosting,8500,Domain And Hosting
+Sales,Aug-2023,Casa Eternal - STAAH,Rb/ST/23-24/1054,Set Up C M,6000,STAAH
+Sales,Aug-2023,Casa Eternal - STAAH,Rb/ST/23-24/1054,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Rio Management Services Private Linited,Rub/23-24/DG/309,Updates and Changes,1900,Maintenance Of Website
+Sales,Aug-2023,Kuber Management Company,Rub/23-24/DH/310,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Kuber Management Company,Rub/23-24/DH/310,Renewal of Hosting,3000,Domain And Hosting
+Sales,Aug-2023,Kuber Management Company,Rub/23-24/DH/310,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Sonesta Inn Pvt. Ltd./Hotel,Rub/23-24/DH/311,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Sonesta Inn Pvt. Ltd./Hotel,Rub/23-24/DH/311,Renewal of Hosting,14900,Domain And Hosting
+Sales,Aug-2023,Sonesta Inn Pvt. Ltd./Hotel,Rub/23-24/DH/311,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Sonesta Inn Pvt. Ltd./Hotel,Rub/23-24/DH/311,Support Charges (Optional),3000,Domain And Hosting
+Credit Note,Aug-2023,Double Tree by Hilton Goa Panaji,10,Facebook Ad,-15835.11,null
+Sales,Aug-2023,Concord Exotic Voyages Inn,Rub/23-24/Amc313,Annual Maintenance,18000,Maintenance Of Website
+Sales,Aug-2023,Goa Tourism Development Corporation I,Rub/23-24/DH/314,Registration of,75000,Domain And Hosting
+Sales,Aug-2023,Vidya Dehejia (Domain),Rub/23-24/DH/315,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Vidya Dehejia (Domain),Rub/23-24/DH/315,Renewal of Hosting,6000,Domain And Hosting
+Sales,Aug-2023,Vidya Dehejia (Domain),Rub/23-24/DH/315,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Vidya Dehejia (Domain),Rub/23-24/DH/315,Annual Maintenance,6250,Maintenance Of Website
+Sales,Aug-2023,De Mandarin Bangalore - STAAH New,Rub/23-24/DH/316,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,De Mandarin Bangalore - STAAH New,Rub/23-24/DH/316,Renewal of,18000,Domain And Hosting
+Sales,Aug-2023,Children Walking Tall,Rub/23-24/DH/317,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Children Walking Tall,Rub/23-24/DH/317,Renewal of Hosting,1750,Domain And Hosting
+Sales,Aug-2023,Children Walking Tall,Rub/23-24/DH/317,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Hospedaria Abrige De Botelho - STAAH,Rb/ST/23-24/1055,Set Up B E,3000,STAAH
+Sales,Aug-2023,Supreme Realtors,Rub/23-24/Amc318,Annual Maintenance,15000,Maintenance Of Website
+Sales,Aug-2023,Goa Forgiving Trust,Rub/23-24/DH/319,Renewal of Domain Name,1650,Domain And Hosting
+Sales,Aug-2023,Goa Forgiving Trust,Rub/23-24/DH/319,Renewal of Hosting,7500,Domain And Hosting
+Sales,Aug-2023,Goa Forgiving Trust,Rub/23-24/DH/319,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Goa Forgiving Trust,Rub/23-24/DH/319,Renewal of,5780,Domain And Hosting
+Sales,Aug-2023,Sanctuary of St. Joseph Vaz,Rub/23-24/DH/320,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Sanctuary of St. Joseph Vaz,Rub/23-24/DH/320,Renewal of Hosting,4000,Domain And Hosting
+Sales,Aug-2023,Sanctuary of St. Joseph Vaz,Rub/23-24/DH/320,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Priti Guest House - STAAH,Rb/ST/23-24/1057,Set Up C M,6000,STAAH
+Sales,Aug-2023,Priti Guest House - STAAH,Rb/ST/23-24/1057,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Quinta Da Branca - STAAH,Rb/ST/23-24/1056,Set Up C M,6000,STAAH
+Sales,Aug-2023,Quinta Da Branca - STAAH,Rb/ST/23-24/1056,Monthly Fees C M,4500,STAAH
+Sales,Aug-2023,Pavnai Industries,Rub/23-24/web321,Website Development,38000,Website Development
+Sales,Aug-2023,Pavnai Industries,Rub/23-24/web321,Content Writing,10000,Website Development
+Sales,Aug-2023,Pavnai Industries,Rub/23-24/web321,Annual Maintenance,15000,Maintenance Of Website
+Sales,Aug-2023,Pavnai Industries,Rub/23-24/web321,Domain and Hosting,10000,null
+Sales,Aug-2023,Pavnai Industries,Rub/23-24/web321,Search Engine Optimisation,15000,Digital Media
+Sales,Aug-2023,Pavnai Industries,Rub/23-24/web321,Google  Agency Fees,12000,Digital Media
+Sales,Aug-2023,Tulip Diagnostics Private Limited,Rub/23-24/DH/323,Registration of,25000,Domain And Hosting
+Sales,Aug-2023,M/S Artisanale,Rub/23-24/DH/324,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,M/S Artisanale,Rub/23-24/DH/324,Renewal of Hosting,3000,Domain And Hosting
+Sales,Aug-2023,M/S Artisanale,Rub/23-24/DH/324,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,YU HOTEL,Rub/23-24/Seo325,Search Engine Optimisation,10000,Digital Media
+Sales,Aug-2023,Menezes Pharmaceuticals Limited,Rub/23-24/DH/326,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Menezes Pharmaceuticals Limited,Rub/23-24/DH/326,Renewal of Hosting,1000,Domain And Hosting
+Sales,Aug-2023,Sandalwood Hotel & Retreat - STAAH,Rub/23-24/DH/327,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Reynold  Weddings,Rub/23-24/DH/328,Registration of Domain Names,5400,Domain And Hosting
+Sales,Aug-2023,Bogmallo Beach Resorts,Rub/23-24/DH/329,Renewal of Domain Name,1600,Domain And Hosting
+Sales,Aug-2023,Bogmallo Beach Resorts,Rub/23-24/DH/329,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Bogmallo Beach Resorts,Rub/23-24/DH/329,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Goan Cafe Beach Resort - STAAH,Rub/23-24/DH/330,Transfer and Renewal of Domain,1350,Domain And Hosting
+Sales,Aug-2023,Pandurang Timblo Industrials,Rub/23-24/DH/331,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Pandurang Timblo Industrials,Rub/23-24/DH/331,Renewal of Hosting,7500,Domain And Hosting
+Sales,Aug-2023,Pandurang Timblo Industrials,Rub/23-24/DH/331,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Pandurang Timblo Industrials,Rub/23-24/DH/331,Support Charges (Optional),3000,Domain And Hosting
+Sales,Aug-2023,Chowgule Lavgan Shiprepair Private Limited,Rub/23-24/DH/332,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Riva Resorts Mandrem(Domain),Rub/23-24/DH/333,Renewal of Email Ids,36300,Domain And Hosting
+Sales,Aug-2023,Dsouza Faria Hospitality Private Ltd,Rub/23-24/DH/334,Registration of,30000,Domain And Hosting
+Sales,Aug-2023,Granpa's Inn - STAAH,Rub/23-24/DH/335,Annual Maintenance,10000,Maintenance Of Website
+Sales,Aug-2023,Dsouza Faria Hospitality Private Ltd,Rub/23-24/DH/336,Annual Maintenance,15000,Maintenance Of Website
+Sales,Aug-2023,Dona Julia - the Indian Getaway,Rub/23-24/DH/337,Annual Maintenance,15000,Maintenance Of Website
+Sales,Aug-2023,Glen Dias 1,Rub/23-24/DH/338,Renewal of Hosting,7500,Domain And Hosting
+Sales,Aug-2023,Glen Dias 1,Rub/23-24/DH/338,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Glen Dias 1,Rub/23-24/DH/339,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Glen Dias 1,Rub/23-24/DH/339,Renewal of Hosting,12000,Domain And Hosting
+Sales,Aug-2023,Glen Dias 1,Rub/23-24/DH/339,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Montede Guirim,Rub/23-24/DH/340,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Sia Signature - STAAH,Rub/23-24/DH/341,Renewal of Domain Name,1350,Domain And Hosting
+Sales,Aug-2023,Sia Signature - STAAH,Rub/23-24/DH/341,Renewal of Hosting,12000,Domain And Hosting
+Sales,Aug-2023,Sia Signature - STAAH,Rub/23-24/DH/341,Renewal of Cpanel License,500,Domain And Hosting
+Sales,Aug-2023,Acron BNB - STAAH (New),Rb/ST/23-24/1058,Setup PMS,5000,STAAH
+Sales,Aug-2023,Acron Candolim Regina - STAAH,Rb/ST/23-24/1059,Setup PMS,5000,STAAH
+Sales,Aug-2023,Acron Seaway Resort - STAAH,Rb/ST/23-24/1060,Setup PMS,5000,STAAH
+Sales,Aug-2023,Acron Waterfront Resort - STAAH,Rb/ST/23-24/1061,Setup PMS,5000,STAAH
+Sales,Aug-2023,Golden Park Baga - STAAH,Rb/ST/23-24/1062,Set Up C M,6000,STAAH
+Sales,Aug-2023,Golden Park Baga - STAAH,Rb/ST/23-24/1062,Monthly Fees C M,3500,STAAH
+Sales,Aug-2023,Hottley Holidays - STAAH,Rb/ST/23-24/1063,Set Up C M,6000,STAAH
+Sales,Aug-2023,Hottley Holidays - STAAH,Rb/ST/23-24/1063,Set Up B E,3000,STAAH
+Sales,Aug-2023,Hottley Holidays - STAAH,Rb/ST/23-24/1063,Setup Payment Gateway,6000,STAAH
+Sales,Aug-2023,Hottley Holidays - STAAH,Rb/ST/23-24/1063,Booking Engine & C.M.S. (STAAH),6000,STAAH
+Credit Note,Aug-2023,Bogmallo Beach Resort (C) - STAAH,11,Booking Engine & C.M.S. (STAAH),-13500,STAAH
+Credit Note,Aug-2023,Bogmallo Beach Resort (C) - STAAH,11,Monthly Fees RM,-6000,STAAH
